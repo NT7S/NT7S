@@ -7,6 +7,7 @@ If you enjoy my released work, take advantage of it, or just like what I'm doing
 As of September 2020, here's what I'm working on and what is coming soon:
 - I'm completing my [Empyrean](https://www.etherkit.com/microcontrollers/empyrean.html) campaign on Indiegogo and will be moving it to regular production soon.
 - Next up I will be finishing work on my amateur radio MEPT (Manned Experimental Propagation Transmitter) named [OpenBeacon 2](https://github.com/etherkit/OpenBeacon2).
+- Working through the large backlog of issues here on my GitHub repos. I have seen them and I'm not ignoring them, I have had to prioritize other things first.
 - Smaller projects that are mostly completed, such as a Si5351B/Si5351C breakout board, QRP antenna trap board, and some various boards useful for the workbench.
 - I definitely want to get back to the development of a QRP transceiver for amateur radio use, much like I almost did with my CC1 project.
 - I'm also interested in make some easy kits for kids to make, as I have a couple of them in my own home!
